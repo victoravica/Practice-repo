@@ -1,3 +1,5 @@
 # Practice-repo
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pellentesque eu arcu ac molestie. Pellentesque in dictum odio, a venenatis urna. In interdum dolor nec ex sagittis facilisis. Nunc eleifend ut nisl vel convallis. Praesent a nisl ut nisl facilisis pulvinar sed id mauris. Sed quis magna venenatis, posuere ligula sit amet, dignissim neque. Maecenas vitae ante viverra turpis venenatis gravida. Phasellus auctor orci non volutpat mollis. Nunc venenatis, augue at molestie feugiat, diam purus cursus risus, quis congue orci risus non tortor. Donec gravida efficitur est id consectetur. Nulla non euismod erat. Quisque eleifend magna id dui interdum, id sollicitudin urna mattis. Quisque vulputate elementum dui scelerisque sagittis. Fusce magna nulla, sagittis ut odio sed, feugiat pretium ipsum. Fusce convallis tincidunt nulla ac feugiat. Sed vitae placerat magna.</p>
+![Image 094](https://user-images.githubusercontent.com/93058665/141238825-4dcfa74e-b7f8-43ab-9acd-f5c524fd88dc.png)
+[github process.txt](https://github.com/victoravica/Practice-repo/files/7517813/github.process.txt)
